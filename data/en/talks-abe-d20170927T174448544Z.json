@@ -1,0 +1,16 @@
+{
+  "level-1": [
+    "en"
+  ],
+  "abe_meta": {
+    "template": "TALKS",
+    "link": "/en/talks.html",
+    "createdDate": "2017-09-27T17:44:48.544Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-09-27T17:44:48.544Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  },
+  "name": "talks"
+}

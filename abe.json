@@ -1,0 +1,15 @@
+{
+  "deployers": {
+    "git": {
+      "active": true,
+      "repository": "https://github.com/gregorybesson/abegittest.git",
+      "branch": "master",
+      "username": "gregorybesson",
+      "email": "mymail@domain.com"
+    }
+  },
+  "plugins": [
+    "abecms/abe-deployer-sftp",
+    "abecms/abe-deployer-git"
+  ]
+}

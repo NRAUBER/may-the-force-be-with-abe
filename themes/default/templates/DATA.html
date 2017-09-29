@@ -1,0 +1,13 @@
+
+<H1>DATA COLORS BASED ON JSON</H1>
+{{abe type='data' key='colors' desc='Add a color (autocomplete)' source='reference/colors.json' autocomplete="true" display="colorName"}}
+
+{{abe type='data' key='colors' desc='Add a color' source='reference/colors.json' display="colorName"}}
+
+<h2>#each colors</h2>
+<ul>
+{{#each colors}}
+	<li>{{colorName}} : <font color="#{{colorRef}}">{{colorRef}}</font></li>
+{{/each}}
+</ul>
+

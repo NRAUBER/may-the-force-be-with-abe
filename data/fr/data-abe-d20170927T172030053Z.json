@@ -1,0 +1,33 @@
+{
+  "level-1": "fr",
+  "abe_meta": {
+    "template": "DATA",
+    "link": "/fr/data.html",
+    "createdDate": "2017-09-27T16:51:05.272Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-09-27T17:20:30.053Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  },
+  "name": "data",
+  "myjson": {
+    "someName": {
+      "foe": "Value of foe"
+    }
+  },
+  "colors": [
+    {
+      "colorName": "darkslategrey",
+      "colorRef": "#2f4f4f"
+    },
+    {
+      "colorName": "mediumaquamarine",
+      "colorRef": "#66cdaa"
+    },
+    {
+      "colorName": "coral",
+      "colorRef": "#ff7f50"
+    }
+  ]
+}

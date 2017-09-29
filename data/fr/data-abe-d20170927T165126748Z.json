@@ -1,0 +1,19 @@
+{
+  "level-1": "fr",
+  "abe_meta": {
+    "template": "DATA",
+    "link": "/fr/data.html",
+    "createdDate": "2017-09-27T16:51:05.272Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-09-27T16:51:26.748Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  },
+  "name": "data",
+  "myjson": {
+    "someName": {
+      "foe": "Value of foe"
+    }
+  }
+}

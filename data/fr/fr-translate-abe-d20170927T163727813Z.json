@@ -1,0 +1,16 @@
+{
+  "level-1": [
+    "fr"
+  ],
+  "abe_meta": {
+    "template": "TRANSLATE",
+    "link": "/fr/fr-translate.html",
+    "createdDate": "2017-09-27T16:37:27.812Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-09-27T16:37:27.813Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  },
+  "name": "fr translate"
+}

@@ -1,0 +1,20 @@
+<h1>TRANSLATE</h1>
+
+<ul>
+	<li>Pomme</li>
+	<li>Cerise</li>
+	<li>Banane</li>
+</ul>
+<p>
+{{abe type="translate" source="bla bla bla" locale="fr"}} <br/>
+{{abe type="translate" source="bla bla bla" locale="{{lang}}"}} <br/>
+{{abe type="translate" source="{{variable}}" locale="{{lang}}"}} <br/>
+</p>
+
+
+<h2>abeEditor</h2>
+{{#if abeEditor}}
+    Html rendered inside post when user edit the post
+{{else}}
+    Html rendered when user "publish" the post (final output)
+{{/if}}

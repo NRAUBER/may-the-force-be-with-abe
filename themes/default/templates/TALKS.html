@@ -1,0 +1,7 @@
+{{abe type="data" key="talks" source="select title,cover from /talks where `abe_meta.template`=`talk`" desc="select talk" display="{{title}}"}}
+
+
+<h1>TALKS</h1>
+{{#each talks}}
+<p>{{title}}  {{cover}}</p>
+{{/each}}

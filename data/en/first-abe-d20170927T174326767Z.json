@@ -1,0 +1,18 @@
+{
+  "level-1": [
+    "en"
+  ],
+  "name": "first",
+  "title": "Second talk",
+  "cover": "https://tedconfblog.files.wordpress.com/2015/05/linda-cliatt-wayman.jpg",
+  "abe_meta": {
+    "template": "talk",
+    "link": "/en/first.html",
+    "createdDate": "2017-09-27T17:43:26.767Z",
+    "createdBy": "admin",
+    "updatedDate": "2017-09-27T17:43:26.767Z",
+    "updatedBy": "admin",
+    "status": "draft",
+    "complete": "100"
+  }
+}
